@@ -2,19 +2,17 @@
 nmap silent installation on windows
 
 ### Step 0  
-Download nmap.zip  
-or Just run command:   
-`msiexec /q /i https://github.com/Lz1y/nmap-silent-installation/nmap.msi?raw=true`
+Download nmap.exe(SFX file)
 
 ### Step 1  
-unzip nmap-7.12-win32.zip  
-If you use msi file,skip this step.
+run nmap.exe in cmd and there will extract a nmap directory.
 
 ### Step 2  
-install WinPcap in silent mode  
+cd nmap directory,install WinPcap in silent mode  
 `winpcap-nmap-4.13.exe /S`
 
 ### Step 3  
+Try to run nmap  
 Enjoy ~
 
 
