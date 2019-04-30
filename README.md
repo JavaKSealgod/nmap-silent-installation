@@ -8,7 +8,7 @@ or Just run command:
 
 ### Step 1  
 unzip nmap-7.12-win32.zip  
-
+If you use msi file,skip this step.
 
 ### Step 2  
 install WinPcap in silent mode  
