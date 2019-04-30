@@ -5,7 +5,7 @@ nmap silent installation on windows
 Download nmap.exe(SFX file)
 
 ### Step 1  
-run nmap.exe in cmd and there will extract a nmap directory.
+run nmap.exe in cmd and the nmap directory will be extracted.
 
 ### Step 2  
 cd nmap directory,install WinPcap in silent mode  
